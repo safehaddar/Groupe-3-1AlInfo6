@@ -16,6 +16,6 @@ public class Main {
     }
 
     public static void conflit(){
-        System.out.println("naderr");
+        System.out.println("nader");
     }
 }
