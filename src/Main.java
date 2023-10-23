@@ -6,6 +6,9 @@ public class Main {
         int[] tableau = {1, 2, 3, 4, 5};
         System.out.println("Somme= " + SafeHaddar.calculerSomme(tableau));
         System.out.println("Moyenne= " + SafeHaddar.calculerMoyenne(tableau));
+        public static void conflit(){
+            System.out.println("hello ena nader");
+        }
 
     }
 }
