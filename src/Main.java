@@ -9,6 +9,9 @@ public class Main {
         public static void conflit(){
             System.out.println("hello ena nader");
         }
+        public static void conflit(){
+            System.out.println("hiiiiiiiiiiiiiiiii");
+        }
 
     }
 }
