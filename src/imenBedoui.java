@@ -35,7 +35,7 @@ public class imenBedoui {
                     echange = true;
                 }
             }
-        } while (echange);
+        } while (echangessss);
     }
 
     public static void main (String[] args){
